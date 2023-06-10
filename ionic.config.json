@@ -1,0 +1,7 @@
+{
+  "name": "ionicTugasB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
